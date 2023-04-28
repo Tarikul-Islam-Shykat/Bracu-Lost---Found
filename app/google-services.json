@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799969232282",
+    "project_id": "bracu-lost-and-found",
+    "storage_bucket": "bracu-lost-and-found.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799969232282:android:573c603a4d62d05532a623",
+        "android_client_info": {
+          "package_name": "com.example.cse471"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799969232282-ee1pru0nnu3qpotga6k61phtgj58gbkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCweihSY_jHXJk4qG1jxm8GqRUzXHHnnQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799969232282-ee1pru0nnu3qpotga6k61phtgj58gbkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
